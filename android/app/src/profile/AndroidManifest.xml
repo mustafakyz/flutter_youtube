@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="paket.mustafa.com.yemektariflerichannel">
+    <application>
+        <!-- TODO: Replace with your real AdMob app ID -->
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-3575112198342733~3467021119"/>
+    </application>
+    <uses-permission android:name="android.permission.INTERNET"/>
+</manifest>

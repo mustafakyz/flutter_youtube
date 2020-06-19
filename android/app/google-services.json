@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "544024201145",
+    "firebase_url": "https://yemektarifleri-e303b.firebaseio.com",
+    "project_id": "yemektarifleri-e303b",
+    "storage_bucket": "yemektarifleri-e303b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544024201145:android:d15d559316cf48baa15868",
+        "android_client_info": {
+          "package_name": "paket.mustafa.com.yemektariflerichannel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544024201145-s3tnoi7bnfgv713uq40qcrsk6qkspjro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4d_UXjMLBuK-87bJ4ZXa9A5o8GJe9omg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544024201145-s3tnoi7bnfgv713uq40qcrsk6qkspjro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
