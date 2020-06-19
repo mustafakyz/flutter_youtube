@@ -1,16 +1,23 @@
-# proje1
+# Using Youtube api and Admob 
 
 A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+#Step1:
+ From the terminal: Run flutter pub get.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+#Step2:
+ views/keys.dart Your Youtube API KEY
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Step3:
+ androidmanifest.xml change admob advertising KEY
+   android/src/debug/androidmanifest.xml
+   android/src/main/androidmanifest.xml
+   android/src/profile/androidmanifest.xml
+ 
+#Step4:
+  Your  Firebase Google Services Json move  in  android/app
+
+  
